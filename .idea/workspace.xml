@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/my_blog/settings.py" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f240ed69-8de7-407c-a25b-7019806eb778" name="Default" comment="" />
+    <list default="true" id="f240ed69-8de7-407c-a25b-7019806eb778" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
